@@ -3,7 +3,8 @@
 
 ### Navigating the Repository
 There are a total of 4 branches (main, team, teamb, teamc), and the final complete project is in the main branch. The team(a,b,c) branches were created for task allocation for pair-wise collaborations for the group members; however due to constraints, we eventually abandoned the branches and worked together on the main branch.
- 
+# ********************************************************************************* 
+## Project Introduction
 The Project we are working on is based on a dataset from Amazon's Fine Food Reviews, The goal is to build a model(s) that can accurately determine sentiment from a review in text form and classify it as either positive, negative, or neutral.
 
 With the model(s) chosen, one can use them to rate reviews quickly and improve them for much better performance or tune them to determine the sentiment on a comment from other sources.
