@@ -1,6 +1,8 @@
 ﻿# Group9Phase4 Project
 ## Sentiment Analysis of Amazon Fine Food Reviews
 
+![image](https://github.com/user-attachments/assets/0cc00242-0e92-4330-a3ae-fe2f1c1c7196)
+
 ### Navigating the Repository
 There are a total of 4 branches (main, team, teamb, teamc), and the final complete project is in the main branch. The team(a,b,c) branches were created for task allocation for pair-wise collaborations for the group members; however due to constraints, we eventually abandoned the branches and worked together on the main branch.
 # ********************************************************************************* 
